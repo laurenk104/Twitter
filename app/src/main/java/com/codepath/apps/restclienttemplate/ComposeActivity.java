@@ -61,7 +61,7 @@ public class ComposeActivity extends AppCompatActivity {
                         Log.i(TAG, "onSuccess to publish tweet");
                         try {
                             Tweet tweet = Tweet.fromJson(json.jsonObject);
-                            Log.i(TAG, "Published tweet says: " + tweet.body);
+                            Log.i(TAG, "Tweet was published");
                             Intent intent = new Intent();
                             intent.putExtra("tweet", Parcels.wrap(tweet));
                             // set result code and bundle data for response
