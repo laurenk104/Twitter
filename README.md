@@ -49,7 +49,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<img src='refresh.gif' title='Pull to resfresh' width='' alt='Pull to resfresh' />
+<img src='refresh.gif' title='Pull to resfresh' width='500px' alt='Pull to resfresh' />
 
 ## Notes
 
